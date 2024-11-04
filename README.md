@@ -9,10 +9,12 @@ This is my project for Data Analysis with the Incubator Hub.This Data Analysis p
 This primary source of data used here is from canvas.instructure.com or any other repository site.
 
 ### Tools Used
-- Microsoft Excel 
- i. For Data Cleaning
-ii. For Analysis
-iii. For Data Visualization
-
+- Microsoft Excel [Download Here] (http://www.microsoft.com)
+- 
+  i. For Data Cleaning
+  
+  ii. For Analysis
+  
+  iii. For Data Visualization
 - Power BI for visualizing key customer segments 
 - GitHub for Portfolio Building
