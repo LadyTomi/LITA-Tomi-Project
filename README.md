@@ -16,5 +16,5 @@ This primary source of data used here is from canvas.instructure.com or any othe
   ii. For Analysis
   
   iii. For Data Visualization
-- Power BI for visualizing key customer segments 
+- Power BI for visualizing key customer segments
 - GitHub for Portfolio Building
