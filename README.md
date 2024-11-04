@@ -20,7 +20,9 @@ This primary source of data used here is from canvas.instructure.com or any othe
 - GitHub for Portfolio Building
 
   ### Data Visualization
+  
 ![powerbi project 2](https://github.com/user-attachments/assets/3758839d-7c81-46ad-a2d7-e5ea03d40164)
+
 ![powerbi project 1](https://github.com/user-attachments/assets/5c76912d-5c04-4920-86a0-2105888ad71f)
 
 ![ecxel project 1](https://github.com/user-attachments/assets/c8963d0a-0334-435d-9998-3fb69f7f6aae)
